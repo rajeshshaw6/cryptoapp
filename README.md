@@ -1,8 +1,1 @@
-# cryptocurreny_app
-
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+<img src="app/src/main/res/drawable/bit.JPG" width="400">
