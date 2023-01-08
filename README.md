@@ -2,4 +2,4 @@
 Crypto App in flutter.Gives current rates and increment or decrement of last one hour of different cryptocurrencies.
 
 
-<img src="app/src/main/res/drawable/crypt.jpg" width="300">   <img src ="app/src/main/res/drawable/crypt1.jpg" width="300">
+![image](https://user-images.githubusercontent.com/43552295/211189265-7f7c52f4-9a5a-47b3-9af4-6093abb733d0.png)
